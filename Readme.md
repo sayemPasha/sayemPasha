@@ -10,12 +10,13 @@ My goal as a leader is to build services that are fast, reliable, and focused on
 
 | Category                  | Technologies                                                                 |
 |---------------------------|------------------------------------------------------------------------------|
-| Languages                 | C#, TypeScript, JavaScript                                                   |
-| Frameworks & Platforms    | .NET Core, Entity framework, GraphQL, REST                                   |
-| Cloud & DevOps            | Kubernetes, Docker, Serverless Architectures (e.g., Cloudflare Workers)      |
+| Languages                 | C#, TypeScript, JavaScript, Python, Kotlin                                   |
+| Frameworks & Platforms    | .NET Core, Entity framework, GraphQL, FastAPI                                |
+| Cloud & DevOps            | Kubernetes, Docker, Serverless Architectures (Cloudflare Workers)            |
 | Data & Search             | Elasticsearch, OpenSearch                                                    |
 | Caching & Messaging       | Redis (in-memory caching and session management), RabbitMQ (asynchronous messaging and microservices communication) |
-| Database | SQL (Postgres, MS-SQL), NoSQL (Mongo DB) |
+| Database                  | SQL (Postgres, MS-SQL), NoSQL (Mongo DB) |
+| Generative AI             | Gemini Multi-Modal LLM, LangChain, Google ADK, Browser Automation (Crawl-4ai, browser-use) |
 
 ---
 
@@ -37,27 +38,27 @@ I enjoy helping my colleagues grow and become more effective.
 **Highlighted Projects**  
 GraphQL API for Content Delivery
 
-Developed a GraphQL API with .NET for a headless CMS.
+- Developed a GraphQL API with .NET for a headless CMS.
 
-Used Elasticsearch for fast search capabilities, with sub-millisecond response times.
+- Used Elasticsearch for fast search capabilities, with sub-millisecond response times.
 
-Implemented caching and continuous deployment pipelines for high availability.
+- Implemented caching and continuous deployment pipelines for high availability.
 
 **Multi-Tenant SaaS Service**  
 
-Built a multi-tenant service with C# and Kubernetes that kept client data secure and isolated.
+- Built a multi-tenant service with C# and Kubernetes that kept client data secure and isolated.
 
-Monitored production health with alerting and automated failover.
+- Monitored production health with alerting and automated failover.
 
-Worked with product and go-to-market teams to deliver features that met business needs.
+- Worked with product and go-to-market teams to deliver features that met business needs.
 
 **Serverless Data Processing Pipeline**  
 
-Engineered a serverless data pipeline with TypeScript and Cloudflare Workers to process customer data.
+- Engineered a serverless data pipeline with TypeScript and Cloudflare Workers to process customer data.
 
-Used TDD to build a high-quality codebase.
+- Used TDD to build a high-quality codebase.
 
-Improved reliability and reduced overhead by using a serverless cloud stack.
+- Improved reliability and reduced overhead by using a serverless cloud stack.
 
 ---
 
