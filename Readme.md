@@ -1,4 +1,4 @@
-Hello, I'm Sayem Pasha.
+Hello, I'm **Sayem Pasha**.  
 I'm a software engineer who builds scalable, high-performance services. I focus on helping teams deliver great work and improve their technical skills.
 
 **Professional Focus**  
