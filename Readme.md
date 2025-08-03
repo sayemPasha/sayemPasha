@@ -7,24 +7,13 @@ My goal as a leader is to build services that are fast, reliable, and focused on
 ---
 
 **Technical Expertise**  
-Languages: C#, TypeScript, JavaScript
-
-Frameworks & Platforms: .NET Core, GraphQL, REST
-
-Cloud & DevOps: Kubernetes, Docker, Serverless Architectures (e.g., Cloudflare Workers)
-
-Data & Search: Elasticsearch, OpenSearch
-
-Caching & Messaging: Redis (in-memory caching and session management); RabbitMQ for asynchronous messaging and microservices communication.
-
-Database: SQL (Postgres, MS-SQL, NoSQL (Mongo DB)
 
 | Category                  | Technologies                                                                 |
 |---------------------------|------------------------------------------------------------------------------|
 | Languages                 | C#, TypeScript, JavaScript                                                   |
-| Frameworks & Platforms    | .NET Core, GraphQL, REST                                                     |
+| Frameworks & Platforms    | .NET Core, Entity framework, GraphQL, REST                                   |
 | Cloud & DevOps            | Kubernetes, Docker, Serverless Architectures (e.g., Cloudflare Workers)      |
-| Data & Search             | Elasticsearch, OpenSearch                                                   |
+| Data & Search             | Elasticsearch, OpenSearch                                                    |
 | Caching & Messaging       | Redis (in-memory caching and session management), RabbitMQ (asynchronous messaging and microservices communication) |
 | Database | SQL (Postgres, MS-SQL), NoSQL (Mongo DB) |
 
