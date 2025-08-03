@@ -19,6 +19,15 @@ Caching & Messaging: Redis (in-memory caching and session management); RabbitMQ 
 
 Database: SQL (Postgres, MS-SQL, NoSQL (Mongo DB)
 
+| Category                  | Technologies                                                                 |
+|---------------------------|------------------------------------------------------------------------------|
+| Languages                 | C#, TypeScript, JavaScript                                                   |
+| Frameworks & Platforms    | .NET Core, GraphQL, REST                                                     |
+| Cloud & DevOps            | Kubernetes, Docker, Serverless Architectures (e.g., Cloudflare Workers)      |
+| Data & Search             | Elasticsearch, OpenSearch                                                   |
+| Caching & Messaging       | Redis (in-memory caching and session management), RabbitMQ (asynchronous messaging and microservices communication) |
+| Database | SQL (Postgres, MS-SQL), NoSQL (Mongo DB) |
+
 ---
 
 **Leadership & Development Philosophy**  
