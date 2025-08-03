@@ -21,15 +21,16 @@ My goal as a leader is to build services that are fast, reliable, and focused on
 ---
 
 **Leadership & Development Philosophy**  
-I believe in using best practices like Test-Driven Development (TDD), Clean Code, and SOLID principles. My leadership style focuses on:
+I believe in using best practices like Test-Driven Development (TDD), Clean Code, and SOLID principles. 
+My leadership style focuses on:  
 
-Mentorship: Coaching and guiding team members to unlock their full potential.
+> Mentorship: Coaching and guiding team members to unlock their full potential.
 
-Collaboration: Driving a "One Team" mentality where diverse perspectives lead to better outcomes.
+> Collaboration: Driving a "One Team" mentality where diverse perspectives lead to better outcomes.
 
-Agile Methodologies: Prioritizing and managing backlogs effectively to deliver value incrementally.
+> Agile Methodologies: Prioritizing and managing backlogs effectively to deliver value incrementally.
 
-Innovation: Staying at the forefront of technology to build differentiating features that solve real-world problems.
+> Innovation: Staying at the forefront of technology to build differentiating features that solve real-world problems.
 
 I enjoy helping my colleagues grow and become more effective.
 
