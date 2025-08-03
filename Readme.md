@@ -1,10 +1,12 @@
 Hello, I'm Sayem Pasha.
 I'm a software engineer who builds scalable, high-performance services. I focus on helping teams deliver great work and improve their technical skills.
 
-## Professional Focus
+** Professional Focus **
 My goal as a leader is to build services that are fast, reliable, and focused on the customer. I create collaborative teams where everyone contributes. I specialize in designing and delivering complex solutions, making sure they're healthy in production and run smoothly.
+
 ---
-## Technical Expertise
+
+** Technical Expertise **
 Languages: C#, TypeScript, JavaScript
 
 Frameworks & Platforms: .NET Core, GraphQL, REST
@@ -16,9 +18,10 @@ Data & Search: Elasticsearch, OpenSearch
 Caching & Messaging: Redis (in-memory caching and session management); RabbitMQ for asynchronous messaging and microservices communication.
 
 Database: SQL (Postgres, MS-SQL, NoSQL (Mongo DB)
+
 ---
 
-## Leadership & Development Philosophy
+** Leadership & Development Philosophy **
 I believe in using best practices like Test-Driven Development (TDD), Clean Code, and SOLID principles. My leadership style focuses on:
 
 Mentorship: Coaching and guiding team members to unlock their full potential.
@@ -32,6 +35,7 @@ Innovation: Staying at the forefront of technology to build differentiating feat
 I enjoy helping my colleagues grow and become more effective.
 
 ---
+
 ** Highlighted Projects **
 GraphQL API for Content Delivery
 
@@ -56,6 +60,8 @@ Engineered a serverless data pipeline with TypeScript and Cloudflare Workers to 
 Used TDD to build a high-quality codebase.
 
 Improved reliability and reduced overhead by using a serverless cloud stack.
+
+---
 
 Get In Touch
 LinkedIn: [/in/sayem-pasha](https://www.linkedin.com/in/sayem-pasha/)
