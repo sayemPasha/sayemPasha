@@ -62,7 +62,7 @@ GraphQL API for Content Delivery
 
 ---
 
-Get In Touch
+**Get In Touch**  
 LinkedIn: [/in/sayem-pasha](https://www.linkedin.com/in/sayem-pasha/)
 
-Email: [zun.sayem@gmail.com]
+Email: zun.sayem@gmail.com
